@@ -1,0 +1,7 @@
+{
+    "name": "Defilter",
+    "description": "A Sublime Text plugin to remove specific words or regex patterns from the current document.",
+    "author": "Lazar Lazarov",
+    "version": "1.0.0",
+    "sublime_text": ">=3000"
+}
